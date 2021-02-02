@@ -1,16 +1,87 @@
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Potta+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
 
 
 body {
-  font-family: 'Josefin Sans', sans-serif;
+  color: white;
+
   text-align: center;
-  font-size : 55px;
+  font-size : 15px;
+  font-weight: 20px;
 
 
-  background-image: url(https://images.squarespace-cdn.com/content/v1/5b4bb4b3710699a35f966573/1532393323738-KWGBJDTJ1NBBPK9VAXUM/ke17ZwdGBToddI8pDm48kHM888A2cEOL-16x2Y7wW2UUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc4SyOWdtRwa1cJTKw8B0-vtPvuM1kELAijj7Lz6A3Vl4q_vViavB6Cs1l3hifcxs0/LghtBlue-BG.jpg?format=2500w );
+  background-image: url(https://wallpapercave.com/wp/hpehPUv.jpg);
   background-size: auto;
   background-attachment: fixed;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat, repeat;
   background-position: center;
   background-size: cover;
+}
+
+.slogan {
+  font-family: 'Raleway', sans-serif;
+  font-size : 15px;
+  text-align: left;
+  margin-left: 10px;
+  margin-top: 0px;
+}
+
+
+.main-text {
+  text-align: left;
+  margin-left: 10px;
+  font-family: 'Raleway', sans-serif;
+  margin-bottom : 0px;
+}
+
+.pizza {
+
+
+
+
+
+  border-radius: 30px;
+  float: right;
+
+}
+
+.pizza-text {
+  margin-left: 30px;
+  float: left;
+  font-family: 'Amatic SC', cursive;
+  margin-top: 50px;
+  font-size: 50px;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+
+.navbar {
+  font-family: 'Raleway', sans-serif;
 }
