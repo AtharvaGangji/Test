@@ -162,3 +162,131 @@ li a:hover {
   float: right;
 
 }
+
+.section-image {
+  position: relative;
+  top: 250px;
+  left: 210px;
+  border-radius: 40px;
+
+  left: 50%;
+
+
+
+
+
+  transform: translate(-50%, -50%);
+}
+
+.safety {
+  font-family: 'Raleway', sans-serif;
+
+
+  color: black;
+  position: absolute;
+  top: 1000px;
+  left: 210px;
+  border-radius: 40px;
+
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.safety1 {
+  font-family: 'Raleway', sans-serif;
+
+
+  color: black;
+  position: absolute;
+  top: 1048px;
+  left: 210px;
+  border-radius: 40px;
+
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.safety2 {
+  font-family: 'Raleway', sans-serif;
+
+
+  color: black;
+  position: absolute;
+  top: 1071px;
+  left: 210px;
+  border-radius: 40px;
+
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.safety3 {
+  font-family: 'Raleway', sans-serif;
+
+
+  color: black;
+  position: absolute;
+  top: 1095px;
+  left: 210px;
+  border-radius: 40px;
+
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.safety4 {
+  font-family: 'Raleway', sans-serif;
+
+
+  color: black;
+  position: absolute;
+  top: 1118px;
+  left: 210px;
+  border-radius: 40px;
+
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.safety5 {
+  font-family: 'Raleway', sans-serif;
+
+
+  color: black;
+  position: absolute;
+  top: 1140px;
+  left: 210px;
+  border-radius: 40px;
+
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.safety6 {
+  font-family: 'Raleway', sans-serif;
+
+
+  color: black;
+  position: absolute;
+  top: 1162px;
+  left: 210px;
+  border-radius: 40px;
+
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.learn-more-safety {
+  font-family: 'Raleway', sans-serif;
+
+
+  color: #00FFFF;
+  position: absolute;
+  top: 1208px;
+  left: 210px;
+  border-radius: 40px;
+
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-decoration: none;
+}
