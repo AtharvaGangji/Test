@@ -4,11 +4,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
 
 
+
+
 body {
   color: white;
 
-  text-align: center;
-  font-size : 15px;
+
+
+
   font-weight: 20px;
 
 
@@ -26,6 +29,7 @@ body {
   text-align: left;
   margin-left: 10px;
   margin-top: 0px;
+
 }
 
 
@@ -34,6 +38,7 @@ body {
   margin-left: 10px;
   font-family: 'Raleway', sans-serif;
   margin-bottom : 0px;
+
 }
 
 .pizza {
@@ -42,17 +47,31 @@ body {
 
 
 
-  border-radius: 30px;
-  float: right;
+  border-radius: 31px;
+  float: left;
+  margin-left: 30px;
+
 
 }
 
 .pizza-text {
-  margin-left: 30px;
-  float: left;
+  padding-left: 30px;
   font-family: 'Amatic SC', cursive;
-  margin-top: 50px;
-  font-size: 50px;
+  font-size: 40px;
+  margin-top :0px;
+  margin-bottom :15px;
+
+
+}
+
+
+.pizza-small-text {
+  margin-top :0px;
+  font-family: 'Amatic SC', cursive;
+  padding-left: 30px;
+  font-size: 22px;
+
+
 }
 
 
@@ -84,4 +103,62 @@ li a:hover {
 
 .navbar {
   font-family: 'Raleway', sans-serif;
+}
+
+
+.pizza-header {
+  padding-left: 30px;
+  font-family: 'Amatic SC', cursive;
+  margin-top: 50px;
+  font-size: 50px;
+  margin-bottom :0px;
+
+}
+
+.button {
+  background-color: #008CBA;
+
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  float: left;
+  position: relative;
+  top: 390px;
+  right: 595px;
+  border-radius: 40px;
+
+}
+
+.button:hover {
+  background-color: #4CAF50;
+}
+
+
+.order-safely {
+  font-family: 'Raleway', sans-serif;
+  position: relative;
+  top: 390px;
+  right: 590px;
+  padding:bottom:0px;
+  margin-bottom:1px;
+
+}
+
+.burger-header {
+  padding-right: 15px;
+  font-family: 'Amatic SC', cursive;
+  margin-top: 50px;
+  font-size: 50px;
+  margin-bottom :0px;
+  position: relative;
+  bottom: 363px;
+  left: px;
+  float: right;
+
 }
