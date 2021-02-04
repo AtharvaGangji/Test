@@ -171,6 +171,8 @@ li a:hover {
 
   left: 50%;
 
+  margin-bottom: 250px;
+
 
 
 
@@ -184,7 +186,7 @@ li a:hover {
 
   color: black;
   position: absolute;
-  top: 1000px;
+  top: 989px;
   left: 210px;
   border-radius: 40px;
 
@@ -198,7 +200,7 @@ li a:hover {
 
   color: black;
   position: absolute;
-  top: 1048px;
+  top: 1042px;
   left: 210px;
   border-radius: 40px;
 
@@ -212,7 +214,7 @@ li a:hover {
 
   color: black;
   position: absolute;
-  top: 1071px;
+  top: 1064px;
   left: 210px;
   border-radius: 40px;
 
@@ -226,7 +228,7 @@ li a:hover {
 
   color: black;
   position: absolute;
-  top: 1095px;
+  top: 1088px;
   left: 210px;
   border-radius: 40px;
 
@@ -240,7 +242,7 @@ li a:hover {
 
   color: black;
   position: absolute;
-  top: 1118px;
+  top: 1110px;
   left: 210px;
   border-radius: 40px;
 
@@ -254,7 +256,7 @@ li a:hover {
 
   color: black;
   position: absolute;
-  top: 1140px;
+  top: 1133px;
   left: 210px;
   border-radius: 40px;
 
@@ -268,7 +270,7 @@ li a:hover {
 
   color: black;
   position: absolute;
-  top: 1162px;
+  top: 1154px;
   left: 210px;
   border-radius: 40px;
 
@@ -282,11 +284,30 @@ li a:hover {
 
   color: #00B7EB;
   position: absolute;
-  top: 1208px;
+  top: 1194px;
   left: 210px;
   border-radius: 40px;
 
   left: 50%;
   transform: translate(-50%, -50%);
   text-decoration: none;
+}
+
+
+.burger-text {
+
+    font-size: 40px;
+    font-family: 'Amatic SC', cursive;
+
+    float: right;
+    padding-right: 15px;
+
+    position: relative;
+    margin-bottom: 0px;
+    bottom: 363px;
+    top: -290px;
+    left: 121px;
+
+
+
 }
