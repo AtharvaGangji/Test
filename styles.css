@@ -41,7 +41,7 @@ body {
 
 }
 
-.pizza {
+.pizza-image {
 
 
 
@@ -96,9 +96,7 @@ li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover {
-  background-color: #111;
-}
+
 
 
 .navbar {
@@ -130,7 +128,7 @@ li a:hover {
   float: left;
   position: relative;
   top: 390px;
-  right: 595px;
+  right: 23px;
   border-radius: 40px;
 
 }
@@ -144,9 +142,10 @@ li a:hover {
   font-family: 'Raleway', sans-serif;
   position: relative;
   top: 390px;
-  right: 590px;
+  right: 49px;
   padding:bottom:0px;
   margin-bottom:1px;
+  
 
 }
 
@@ -165,8 +164,8 @@ li a:hover {
 
 .section-image {
   position: relative;
-  top: 250px;
-  left: 210px;
+  top: 100px;
+  left: 3000px;
   border-radius: 40px;
 
   left: 50%;
@@ -296,11 +295,11 @@ li a:hover {
 
 .burger-text {
 
-    font-size: 40px;
+    font-size: 39px;
     font-family: 'Amatic SC', cursive;
 
     float: right;
-    padding-right: 15px;
+    padding-right: 3px;
 
     position: relative;
     margin-bottom: 0px;
@@ -310,4 +309,103 @@ li a:hover {
 
 
 
+}
+
+
+.burger-small-text {
+  margin-top :0px;
+  font-family: 'Amatic SC', cursive;
+  padding-left: 30px;
+  font-size: 22px;
+  position: relative;
+  margin-bottom: 0px;
+  bottom: 363px;
+  top: -277px;
+  right: -113px;
+  float: right;
+
+
+}
+
+
+
+
+.burger-small-text2 {
+  margin-top :0px;
+  font-family: 'Amatic SC', cursive;
+  padding-left: 30px;
+  font-size: 22px;
+  position: relative;
+  margin-bottom: 0px;
+  bottom: 363px;
+  top: -251px;
+  right: -345px;
+  float: right;
+
+
+}
+
+
+
+.burger-small-text3 {
+  margin-top :0px;
+  font-family: 'Amatic SC', cursive;
+  padding-left: 30px;
+  font-size: 22px;
+  position: relative;
+  margin-bottom: 0px;
+  bottom: 363px;
+  top: -253px;
+  right: -126px;
+  float: right;
+
+
+}
+
+
+
+.burger-image {
+
+
+
+
+
+  border-radius: 31px;
+  float: left;
+
+  position: relative;
+  top: -192px;
+  right: -76.9px;
+
+  height: 397px;
+
+
+}
+
+.burger-all {
+  padding-right : 37px
+}
+
+.safety-all {
+  position: relative;
+  top : -1500px;
+  right : 0.1px;
+}
+
+
+.home-nav {
+  background-color : #ff8c00
+}
+
+.home-nav:hover {
+  background-color : #ffa500
+}
+
+.second-nav:hover {
+  background-color: #111;
+}
+
+
+.learn-more-safety:hover {
+  color:#4c4cff
 }
